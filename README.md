@@ -1,10 +1,10 @@
-# Hi there, I'm Khushboo Nazir! 👋
+# Hi there, I'm Khushboo Nazir! 
 
 > "Make yourself the measure for dealings between you and others. Wish for others what you wish for yourself." — *Imam Ali (a.s.)*
 
 ---
 
-### 🚀 About Me
+###  About Me
 I am a **BCA Student** and **Full-Stack Developer Intern** with a growing passion for **Cybersecurity**. I focus on building real-world applications while maintaining a strong foundation in logic and ethical principles.
 
 - 🎓 **Education:** Currently pursuing a Bachelor of Computer Applications (BCA).
