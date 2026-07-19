@@ -4,13 +4,22 @@
 
 ---
 
-###  About Me
-I am a **BCA Student** and **Full-Stack Developer Intern** with a growing passion for **Cybersecurity**. I focus on building real-world applications while maintaining a strong foundation in logic and ethical principles.
+Here is the updated version with your 6-month full-stack internship certificate included:
 
-- 🎓 **Education:** Currently pursuing a Bachelor of Computer Applications (BCA).
-- 💻 **Dev Life:** Full-Stack experience with PHP, MySQL, and JavaScript.
-- 🛡️ **Cyber Interest:** Exploring Networking, Linux Shell, and Nmap.
-- 📜 **Certification:** Certified in Computer Applications (**NCPUL/NIELIT**).
+About Me
+I am a BCA student and a Junior Full-Stack Developer with a growing passion for Cybersecurity. Having successfully completed a six-month web development internship at Vacatu, I focus on building real-world applications while maintaining a strong foundation in logic and ethical principles.
+
+Education: Currently pursuing a Bachelor of Computer Applications (BCA).
+
+Dev Life: Junior Full-Stack Developer with hands-on experience using DHTML, PHP, and MySQL.
+
+Cyber Interest: Actively exploring Networking and the Linux Shell, and currently familiarizing myself with tools like Nmap.
+
+Certifications:
+
+Certified in Computer Applications (NCPUL/NIELIT).
+
+6-Month Full-Stack Web Development Internship Certificate (Vacatu).
 
 ---
 
