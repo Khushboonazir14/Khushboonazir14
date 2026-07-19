@@ -4,8 +4,6 @@
 
 ---
 
-Here is the updated version with your 6-month full-stack internship certificate included:
-
 About Me
 I am a BCA student and a Junior Full-Stack Developer with a growing passion for Cybersecurity. Having successfully completed a six-month web development internship at Vacatu, I focus on building real-world applications while maintaining a strong foundation in logic and ethical principles.
 
